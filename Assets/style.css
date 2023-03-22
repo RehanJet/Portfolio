@@ -80,7 +80,7 @@ background-color: var(--background-color);
 .footer a{
     color: var(--text-color);
 }
-.first-work-text {
+.first-assignment-text {
     display:inline-block;
     flex-wrap: wrap;
     background-color: var(--background-color);
@@ -89,7 +89,7 @@ background-color: var(--background-color);
     min-width: 175px;
 }
 
-.first-work-text {bottom: 50px;
+.first-assignment-text {bottom: 50px;
     font-size: 10%;
 }
 :root {
