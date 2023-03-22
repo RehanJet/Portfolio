@@ -11,6 +11,8 @@ The following animation shows the web application's appearance and functionality
 
 ![portfolio screenshot](/Assets/Images/Screenshot%202023-.png)
 
-## usage
+## Github-pages
+
+Github pages: https://rehanjet.github.io/Portfolio/
 
 
